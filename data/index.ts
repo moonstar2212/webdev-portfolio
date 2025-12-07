@@ -75,7 +75,7 @@ export const projects = [
     title: "Store It Storage Platform",
     des: "A React, Next.js, Tailwind CSS, and Appwrite project delivering a smooth UI with a reliable backend.",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/appwrite.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/appwrite.svg"],
     link: "https://github.com/moonstar2212/store_it",
   },
   {
