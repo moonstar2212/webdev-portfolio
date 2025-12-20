@@ -180,8 +180,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Freelance Web Developer",
-    desc: "Designing and developing responsive web projects for clients, creating custom features, and delivering clean, functional websites using modern frontend and backend technologies.",
+    title: "Freelance Front-End Developer",
+    desc: "Designing and developing responsive web projects for clients, creating custom features, and delivering clean, functional websites using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
